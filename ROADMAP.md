@@ -12,7 +12,7 @@ Lộ trình của governance-lab được rà soát hàng quý bởi Project Lea
 
 ## Tiếp theo — Next — Quý 2 năm 2027
 
-- [ ] Hoàn tất thảo luận, xử lý phản đối và phê duyệt RFC-0001 về Structured JSON Logging.
+- [x] Hoàn tất thảo luận, xử lý phản đối và phê duyệt RFC-0001 về Structured JSON Logging. Minh chứng: [RFC đã được chấp thuận và merge tại PR #2](https://github.com/OpenSource-DUT/governance-lab/pull/2).
 - [ ] Triển khai định dạng log JSON theo RFC-0001 sau khi RFC được chấp thuận; duy trì tương thích trong giai đoạn chuyển đổi đã thống nhất.
 - [ ] Hỗ trợ đóng gói đa nền tảng: Linux, macOS và Windows ARM64.
 - [ ] Bổ sung ít nhất 02 thành viên vào nhóm Reviewers/Triagers theo tiêu chuẩn GOVERNANCE.md.
