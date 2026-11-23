@@ -6,7 +6,7 @@ Lộ trình của governance-lab được rà soát hàng quý bởi Project Lea
 
 - [x] Hoàn thiện bộ quy chế quản trị cộng đồng tại .github/GOVERNANCE.md, bao gồm bậc thang thăng tiến và trạng thái Emeritus.
 - [ ] Hoàn tất kiểm chứng phân quyền Admin, Write, Triage và quy trình đóng góp qua fork.
-- [ ] Kiểm chứng workflow tiếp nhận Issue: bình luận chào mừng và gán nhãn status: needs-triage.
+- [x] Kiểm chứng workflow tiếp nhận Issue: bình luận chào mừng và gán nhãn status: needs-triage. Minh chứng: [Issue #1](https://github.com/OpenSource-DUT/governance-lab/issues/1), [workflow thành công](https://github.com/OpenSource-DUT/governance-lab/actions/runs/45146097320).
 - [ ] Thiết lập kiểm thử CI/CD tự động đạt độ phủ mã nguồn tối thiểu 80% khi dự án có mã nguồn ứng dụng.
 - [ ] Rà soát và xử lý các lỗ hổng P0 trong module xử lý chuỗi khi module được triển khai.
 
